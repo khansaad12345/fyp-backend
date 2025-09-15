@@ -6,7 +6,6 @@ const classRoutes = require("./routes/class.js");
 const courseRoutes = require("./routes/course.js");
 const enrollmentRoutes = require("./routes/enrollment.js");
 const attendanceRoutes = require("./routes/attendance.js");
-const resultRoutes = require("./routes/result.js");
 const notificationRoutes = require("./routes/notification.js");
 const cookieParser = require("cookie-parser");
 const cors = require("cors");
